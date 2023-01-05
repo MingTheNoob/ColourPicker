@@ -12,7 +12,7 @@ ___
 <img align="center" src="https://cdn.mingsutilities.com/utilities/web-tools/colour-picker/imgs/cover.png">
 
 &nbsp;
-__
+___
 <h3 align="left">Credits:</h3>
 <ul>
     <li>
