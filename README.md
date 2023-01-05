@@ -1,5 +1,5 @@
 <h1 align="center">Colour Picker</h1>
-<h3 align="center">A simple colour picker using only HTML and JavaScript</h3>
+<h3 align="center">A simple colour picker written in HTML and JavaScript, using <a href="https://iro.js.org/">iro.js</a>.</h3>
 
 <br>
 
@@ -13,6 +13,7 @@ ___
 
 &nbsp;
 ___
+&nbsp;
 <h3 align="left">Credits:</h3>
 <ul>
     <li>
