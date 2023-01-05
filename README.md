@@ -16,6 +16,6 @@ __
 <h3 align="left">Credits:</h3>
 <ul>
     <li>
-        <a href="https://github.com/MingTheNoob">Github@MingTheNoob</a>
+        <a href="https://github.com/MingTheNoob">MingTheNoob</a>
     </li>
 </ul>
