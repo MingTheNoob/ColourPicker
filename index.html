@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Colour Picker</title>
+    <script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script>
 </head>
 
 <body>
@@ -18,16 +19,21 @@
                 <p class="lead fs-5">
                     Welcome to the Colour Picker! This is a simple colour picker that allows you to pick
                     colours and get the <code>hex</code>, <code>rgb</code>, and <code>hsl</code> codes for it.
+                    Click the "Copy" button or the colour format names, coloured in pink, to copy the value.
                 </p>
                 <hr>
-                <br>
+                <span class="text-success" id="clipboardStatusMsg"></span>
                 <h5><strong>Selected Colour:</strong></h5>
                 <div id="colour-picker-values"></div>
                 <br>
-                <input type="text" id="colour-picker-hexInput">
+                <div class="input-group">
+                    <input class="form-control" type="text" id="colour-picker-hexInput">
+                    <span class="input-group-text" id="colour-picker-copyValue">Copy</span>
+                </div>
             </div>
         </div>
     </div>
+    <script src="main.js"></script>
 </body>
 
 </html>
